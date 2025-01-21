@@ -1,6 +1,6 @@
 # Privacy Policy
 ## Collection of Information
-* MakeAPNG does not collect and share any personal information.
+* Huseyin78112's software does not collect and share any personal information.
 ## What is Personal Information?
 Personal information is:
 * First name and last name,
